@@ -11,7 +11,19 @@ To write a Python program that calculates the **sum of all elements** in a list.
 ## 🧾 Program
 
 Add code here
+```
+numbers = [10, 20, 30, 40, 50]
+
+total = 0
+
+for i in numbers:
+    total = total + i
+
+print("Sum of all elements:", total)
+```
 
 ## Output
+Sum of all elements: 150
 
 ## Result
+Thus, the Python program to calculate the sum of all elements in a list was successfully executed.
